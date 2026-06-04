@@ -1,0 +1,22 @@
+!DOCTYPE html>
+<html>
+<head>
+<title>Sanjana's Personal Website</title>
+</head>
+<body>
+<h1>Welcome to My Personal Website</h1>
+<h2>Sanjana Srinivasa</h2>
+
+<h3>About Me</h3>
+<p>I am a Robotics and Artificial Intelligence student.</p>
+
+<h3>Education</h3>
+<p>BE in Robotics and Artificial Intelligence</p>
+
+<h3>Social Activities</h3>
+<p>I participate in community service activities and environmental awareness programs.</p>
+
+<h3>Contact</h3>
+<p>Email: your-email@example.com</p>
+</body>
+</html>
